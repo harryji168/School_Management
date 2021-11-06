@@ -30,7 +30,7 @@ Vlad Kubliy
 @vladkubliy
 
 
-!(https://github.com/harryji168/Pictures/blob/eb59027305d0d6b7ed14b45e7d619f31eb54df51/Screenshot%20from%202021-11-06%2016-37-35.png)
+![Screenshot](https://github.com/harryji168/Pictures/blob/eb59027305d0d6b7ed14b45e7d619f31eb54df51/Screenshot%20from%202021-11-06%2016-37-35.png)
 
 
 
