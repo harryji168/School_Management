@@ -132,6 +132,13 @@ Becca  11:50 PM
 This is for the enrollment  page!
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
 
+Vlad Kubliy  9:50 AM
+https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
+
+
+Faiza Eba Batool  10:09 AM
+https://www.figma.com/file/ehA1kbZKXL6NOrjKJvgEju/Untitled
+
 
 
 # APP NAME HERE
