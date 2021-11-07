@@ -1,4 +1,8 @@
-# Group Chat  - Slack
+
+# 1. Net meeting 
+https://meet.google.com/hwi-mtua-zxs?pli=1
+
+# 2. Group Chat  - Slack
 
 This is the very beginning of your direct message history with @Becca, @Faiza Eba Batool, @Hung Nguyen, @Karima, @Kevin Chen, and @Vlad Kubliy
 
@@ -8,9 +12,33 @@ client codecore : T02TT23KN
 group_project_channel: C02L01XN8A
 
 
-# Net meeting 
-https://meet.google.com/hwi-mtua-zxs?pli=1
+# 3. Email need  send require link 
 
+Vlad Kubliy  10:50 AM
+Hello this will be our slack channel for this group project
+
+Hung Nguyen  10:51 AM
+hdnguyen527@gmail.com
+
+Kevin Chen  10:51 AM
+chen.kcw@gmail.com
+
+Karima  10:51 AM
+karima-ettahiri@outlook.com
+
+Faiza Eba Batool  10:51 AM
+faizabatool1691@gmail.com
+
+Harry Ji  10:52 AM
+jiharry@hotmail.com
+
+Becca  10:54 AM
+dabin.chae55@gmail.com
+
+
+# google drive
+
+https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
 
 
