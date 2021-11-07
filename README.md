@@ -42,6 +42,12 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
+# ERD draw.io  diagrams.net
+
+https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
+
+
+
 # Project management   Tools Trello 
 
 
