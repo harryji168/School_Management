@@ -109,7 +109,7 @@ Becca  11:50 PM
 This is for the enrollment  page!
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
 
-Vlad Kubliy  9:50 AM   alll
+### Vlad Kubliy  9:50 AM   all
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
 
 
@@ -148,8 +148,6 @@ https://github.com/kcwchen
 
 
 # APP NAME HERE
-
-
 
 
 
