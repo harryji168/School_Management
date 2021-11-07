@@ -93,6 +93,37 @@ Vlad Kubliy
 
 
 ## Figma drive UI Design
+learn https://youtu.be/FTFaQWZBqQ8
+
+
+
+# github link
+
+
+Karima  3:46 PM
+https://github.com/karimaettahiri
+
+Hung Nguyen  3:48 PM
+https://github.com/hung-git
+
+Harry Ji  3:50 PM
+https://github.com/harryji168
+
+Becca  3:51 PM
+https://github.com/cdbin7
+
+Faiza Eba Batool  3:53 PM
+https://github.com/Faiza-Batool
+
+Kevin Chen  3:56 PM
+https://github.com/kcwchen
+
+
+# Figma Design 
+
+Hung Nguyen  8:50 PM
+https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
+
 
 
 
