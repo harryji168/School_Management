@@ -1,5 +1,7 @@
 # Group Chat  - Slack
 
+This is the very beginning of your direct message history with @Becca, @Faiza Eba Batool, @Hung Nguyen, @Karima, @Kevin Chen, and @Vlad Kubliy
+
 
 
 # project management   Tools Trello 
