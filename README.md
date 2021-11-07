@@ -168,3 +168,9 @@ rails db:migrate
 rails db:seed
 ```
 
+# 9. presentation
+
+
+
+
+# 10. Documenation and review
