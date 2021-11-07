@@ -170,7 +170,7 @@ rails db:seed
 
 # 9. presentation
 
-
+https://youtu.be/XW4pxiLuc8U
 
 
 # 10. Documenation and review
