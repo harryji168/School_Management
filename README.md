@@ -2,9 +2,19 @@
 
 This is the very beginning of your direct message history with @Becca, @Faiza Eba Batool, @Hung Nguyen, @Karima, @Kevin Chen, and @Vlad Kubliy
 
+https://app.slack.com/client/T02TT23KN/C02L01XN8AZ
+
+client codecore : T02TT23KN
+group_project_channel: C02L01XN8A
 
 
-# project management   Tools Trello 
+# Net meeting 
+https://meet.google.com/hwi-mtua-zxs?pli=1
+
+
+
+
+# Project management   Tools Trello 
 
 
 https://trello.com/codecoregroupproject1/
