@@ -47,6 +47,9 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
 
+![Screenshot](https://github.com/harryji168/Pictures/blob/d81633c5d3503dd7ff53494e551df3688d5b7229/Screenshot%20from%202021-11-06%2017-27-46.png)
+
+
 
 # Project management   Tools Trello 
 
@@ -86,6 +89,11 @@ Vlad Kubliy
 
 # Board
 ![Screenshot](https://github.com/harryji168/Pictures/blob/e45f8f1af0b7c188baebe50076e02481e363f756/Screenshot%20from%202021-11-06%2016-43-50.png)
+
+
+
+## Figma drive UI Design
+
 
 
 
