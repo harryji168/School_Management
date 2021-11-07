@@ -36,13 +36,13 @@ Becca  10:54 AM
 dabin.chae55@gmail.com
 
 
-# google drive
+# 4. google drive
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
 
 
-# ERD draw.io  diagrams.net
+# 5.ERD draw.io  diagrams.net  only team leader
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
-# Project management   Tools Trello 
+# 6. Project management   Tools Trello  only team leader
 
 
 https://trello.com/codecoregroupproject1/
@@ -87,17 +87,43 @@ Vlad Kubliy
 
 ![Screenshot](https://github.com/harryji168/Pictures/blob/eb59027305d0d6b7ed14b45e7d619f31eb54df51/Screenshot%20from%202021-11-06%2016-37-35.png)
 
-# Board
+ Board
 ![Screenshot](https://github.com/harryji168/Pictures/blob/e45f8f1af0b7c188baebe50076e02481e363f756/Screenshot%20from%202021-11-06%2016-43-50.png)
 
 
 
-## Figma drive UI Design
+# 7. Figma drive UI Design  for all member
 learn https://youtu.be/FTFaQWZBqQ8
 
 
+Figma Design 
 
-# github link
+Hung Nguyen  8:50 PM
+https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
+
+Karima  10:26 PM
+https://www.figma.com/file/UugQxAMwD4ujgsGFbgJPN9/figma-Courses?node-id=0%3A1
+
+
+Becca  11:50 PM
+This is for the enrollment  page!
+https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
+
+Vlad Kubliy  9:50 AM   alll
+https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
+
+
+Faiza Eba Batool  10:09 AM
+https://www.figma.com/file/ehA1kbZKXL6NOrjKJvgEju/Untitled
+
+
+Harry Ji  10:19 AM
+https://www.figma.com/file/tKVKJ0wyGEeSmgD5f5IZrz/Untitled
+
+
+
+
+# 8. github link for  file shares
 
 
 Karima  3:46 PM
@@ -118,30 +144,6 @@ https://github.com/Faiza-Batool
 Kevin Chen  3:56 PM
 https://github.com/kcwchen
 
-
-# Figma Design 
-
-Hung Nguyen  8:50 PM
-https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
-
-Karima  10:26 PM
-https://www.figma.com/file/UugQxAMwD4ujgsGFbgJPN9/figma-Courses?node-id=0%3A1
-
-
-Becca  11:50 PM
-This is for the enrollment  page!
-https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
-
-Vlad Kubliy  9:50 AM
-https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
-
-
-Faiza Eba Batool  10:09 AM
-https://www.figma.com/file/ehA1kbZKXL6NOrjKJvgEju/Untitled
-
-
-Harry Ji  10:19 AM
-https://www.figma.com/file/tKVKJ0wyGEeSmgD5f5IZrz/Untitled
 
 
 
