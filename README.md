@@ -15,7 +15,7 @@ group_project_channel: C02L01XN8A
 # 3. Email need  send require link 
 
 Vlad Kubliy  10:50 AM
-Hello this will be our slack channel for this group project
+invitation-do-not-reply@trello.com
 
 Hung Nguyen  10:51 AM
 hdnguyen527@gmail.com
