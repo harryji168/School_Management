@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
-# 5.ERD draw.io  diagrams.net  only team leader
+# 5.ERD draw.io  diagrams.net  
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
@@ -51,7 +51,7 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
-# 6. Project management   Tools Trello  only team leader
+# 6. Project management   Tools Trello  
 
 
 https://trello.com/codecoregroupproject1/
