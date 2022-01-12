@@ -1,8 +1,11 @@
 ![Screenshot from 2022-01-12 12-07-40](https://user-images.githubusercontent.com/21187699/149231103-6a9e0e6e-235c-4186-abcd-c4c300ef7605.png)
 
+This project was only one successful group project using remote work in Code Core College after previous three failed,  got an award for school, using group collaboration tools such as Google meet and Slack for communication and diagrams for ERD, and Trello for Project management. We used Figma for UX/UI Design and Github for file sharing migration. We finished booking facility, add list and calendar view, charts, SVG animation, stripe payment, and a Final Presentation. We completed it within three days.
+
+
 ![meeting](https://user-images.githubusercontent.com/21187699/149231514-c598e6b0-c494-4b20-8129-ba30eedebe7f.png)
 
-![meeting1](https://user-images.githubusercontent.com/21187699/149231285-5e49cacb-c442-4f66-8f23-1c9e05611b20.png)
+![meeting1](https://user-images.githubusercontent.com/21187699/149231585-730d68dd-d1e3-4509-9b8a-1f40ee0cf7af.png)
 
 
 # 1. Net meeting 
