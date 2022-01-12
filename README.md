@@ -23,27 +23,13 @@ group_project_channel: C02L01XN8A
 
 # 3. Email need  send require link 
 
-Vlad Kubliy  10:50 AM
-invitation-do-not-reply@trello.com
-
-Hung Nguyen  10:51 AM
-hdnguyen527@gmail.com
-
-Kevin Chen  10:51 AM
-chen.kcw@gmail.com
-
-Karima  10:51 AM
-karima-ettahiri@outlook.com
-
-Faiza Eba Batool  10:51 AM
-faizabatool1691@gmail.com
-
-Harry Ji  10:52 AM
-jiharry@hotmail.com
-
-Becca  10:54 AM
-dabin.chae55@gmail.com
-
+Vlad Kubliy
+Hung Nguyen 
+Kevin Chen 
+Karima
+Faiza Eba Batool
+Harry Ji 
+Becca
 
 # 4. google drive
 
