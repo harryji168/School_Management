@@ -1,5 +1,8 @@
 ![Screenshot from 2022-01-12 12-07-40](https://user-images.githubusercontent.com/21187699/149231103-6a9e0e6e-235c-4186-abcd-c4c300ef7605.png)
 
+![meeting](https://user-images.githubusercontent.com/21187699/149231514-c598e6b0-c494-4b20-8129-ba30eedebe7f.png)
+
+![meeting1](https://user-images.githubusercontent.com/21187699/149231285-5e49cacb-c442-4f66-8f23-1c9e05611b20.png)
 
 
 # 1. Net meeting 
