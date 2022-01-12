@@ -1,3 +1,6 @@
+![Screenshot from 2022-01-12 12-07-40](https://user-images.githubusercontent.com/21187699/149231103-6a9e0e6e-235c-4186-abcd-c4c300ef7605.png)
+
+
 
 # 1. Net meeting 
 https://meet.google.com/hwi-mtua-zxs?pli=1
