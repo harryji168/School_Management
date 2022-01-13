@@ -100,20 +100,16 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
-# 6. Project management   Tools Trello  
-
-https://trello.com/codecoregroupproject1/
+### Project management  uses Trello.com  
 
 ![Screenshot from 2021-11-06 16-37-35](https://user-images.githubusercontent.com/21187699/149396255-ef5ded30-df79-44e2-9361-540a9607c865.png)
-  
- Board
-![Screenshot](https://github.com/harryji168/Pictures/blob/e45f8f1af0b7c188baebe50076e02481e363f756/Screenshot%20from%202021-11-06%2016-43-50.png)
+
+![Screenshot from 2021-11-06 16-43-50](https://user-images.githubusercontent.com/21187699/149396331-ba2e1d02-dd2d-4e0e-a428-93351fd7b0fa.png)
 
 
 
-# 7. Figma drive UI Design  for all member
+## Figma drive UI Design 
 learn https://youtu.be/FTFaQWZBqQ8
-
 
 Figma Design 
 
