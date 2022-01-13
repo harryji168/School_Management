@@ -37,12 +37,9 @@ Vlad Kubliy, Hung Nguyen, Kevin Chen, Karima,Faiza Eba Batool, Harry Ji, Becca
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
-### ERD draw.io diagrams.net  
+### ERD draw.io diagrams.net   
 
-https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
-
-
-![Screenshot](https://github.com/harryji168/Pictures/blob/d81633c5d3503dd7ff53494e551df3688d5b7229/Screenshot%20from%202021-11-06%2017-27-46.png)
+![Screenshot from 2021-11-06 17-27-46](https://user-images.githubusercontent.com/21187699/149394044-da053926-bd13-4709-8649-8bde02e13bd3.png)
 
 
 
