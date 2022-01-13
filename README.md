@@ -49,33 +49,33 @@ Your client has a few vacant properties, and wants to rent out the facilities fo
 ### Features
 Your client has discussed some desired features with your team.  However, they are also open to other suggestions.  In terms of styling, your client is open to any design concepts, as long as it looks professional.  Not all features need to be included, but try to do as many as possible in the time allotted. Some features include:
 <ul>
-<li>Sign In
-<li>Sign Up
-<li>Admin Panel for your client
-<li>Ability for teachers to look up facilities based on location
-<li>Ability for teachers to look up facilities based on features (parking, studio, AC, etc)
-<li>Ability for students to look up courses or lessons based on anything like interests, keywords, location, etc.
-<li>Ability for your client to create facilities
-<li>Ability for teachers to request to book a facility for a period of time
-<li>Ability for your client to approve or deny a request for booking a facility
-<li>Once approved, the teacher’s facility booking will be made.
-<li>Teachers will have the ability to cancel their facility bookings
-<li>Ability for your client to cancel a booking of a facility as well (after initial approval)
-<li>Ability for teachers to create courses
-<li>Ability for teachers to destroy or edit courses
-<li>Ability for teachers to cancel facility reservations (with a possible time limit or fee involved)
-<li>Ability for students to enroll in courses
-<li>Ability for students to unenroll from courses
-Ability for teachers to see all their courses
-Ability for teachers to approve or deny students to enroll in their courses
-Ability for students to see all the courses that they are enrolled in, and also those pending approval
-All users, including your client, can be a teacher or a student
+<li>Sign In</li>
+<li>Sign Up</li>
+<li>Admin Panel for your client</li>
+<li>Ability for teachers to look up facilities based on location</li>
+<li>Ability for teachers to look up facilities based on features (parking, studio, AC, etc)</li>
+<li>Ability for students to look up courses or lessons based on anything like interests, keywords, location, etc.</li>
+<li>Ability for your client to create facilities</li>
+<li>Ability for teachers to request to book a facility for a period of time</li>
+<li>Ability for your client to approve or deny a request for booking a facility</li>
+<li>Once approved, the teacher’s facility booking will be made.</li>
+<li>Teachers will have the ability to cancel their facility bookings</li>
+<li>Ability for your client to cancel a booking of a facility as well (after initial approval)</li>
+<li>Ability for teachers to create courses</li>
+<li>Ability for teachers to destroy or edit courses</li>
+<li>Ability for teachers to cancel facility reservations (with a possible time limit or fee involved)</li>
+<li>Ability for students to enroll in courses</li>
+<li>Ability for students to unenroll from courses</li>
+<li>Ability for teachers to see all their courses</li>
+<li>Ability for teachers to approve or deny students to enroll in their courses</li>
+<li>Ability for students to see all the courses that they are enrolled in, and also those pending approval</li>
+<li>All users, including your client, can be a teacher or a student</li>
 </ul>
 PRESENTATION
 You can designate one or more team member(s) to present.  You can choose to deploy your project or just to present your project in the development environment on localhost.  Grading will be mostly focused on the presentation of your project, but it will also be submitted at the instructed time.  Think of the presentation as a pitch to your client.  It must look professional and well presented.
 
 
-
+# Day 1
 
 ### Net meeting 
 https://meet.google.com/hwi-mtua-zxs?pli=1
@@ -102,40 +102,10 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 # 6. Project management   Tools Trello  
 
-
 https://trello.com/codecoregroupproject1/
 
-FBatool
-
-@fbatool1
-
-harry Ji
-
-@harryji3
-
-Hung Nguyen
-
-@hungnguyen997
-
-karima-ettahiri
-
-@karimaettahiri1
-
-Kevin Chen
-
-@kevinchen598
-
-Rebecca Dabin Chae
-
-@rebeccadabinchae
-
-Vlad Kubliy
-
-@vladkubliy
-
-
-![Screenshot](https://github.com/harryji168/Pictures/blob/eb59027305d0d6b7ed14b45e7d619f31eb54df51/Screenshot%20from%202021-11-06%2016-37-35.png)
-
+![Screenshot from 2021-11-06 16-37-35](https://user-images.githubusercontent.com/21187699/149396255-ef5ded30-df79-44e2-9361-540a9607c865.png)
+  
  Board
 ![Screenshot](https://github.com/harryji168/Pictures/blob/e45f8f1af0b7c188baebe50076e02481e363f756/Screenshot%20from%202021-11-06%2016-43-50.png)
 
