@@ -116,16 +116,17 @@ Figma Design
 
 Hung Nguyen  8:50 PM
 https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
+![Screenshot from 2022-01-13 11-37-03](https://user-images.githubusercontent.com/21187699/149397555-e7fc6901-aaee-49d8-9a27-6db3fb5d1485.png)
 
 Karima  10:26 PM
 https://www.figma.com/file/UugQxAMwD4ujgsGFbgJPN9/figma-Courses?node-id=0%3A1
-
 ![Screenshot from 2022-01-13 11-35-18](https://user-images.githubusercontent.com/21187699/149397319-633d053a-92f6-4886-bec6-773a4005044c.png)
 
 
-Becca  11:50 PM
-This is for the enrollment  page!
+Becca  11:50 PM 
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
+![Screenshot from 2022-01-13 11-38-17](https://user-images.githubusercontent.com/21187699/149397695-87cb8b3a-9111-4d24-b1e1-c9d650b4ce9b.png)
+
 
 ### Vlad Kubliy  9:50 AM   all
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
