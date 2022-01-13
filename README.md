@@ -29,17 +29,15 @@ This is the very beginning of your direct message history with @Becca, @Faiza Eb
 client codecore : T02TT23KN
 group_project_channel: C02L01XN8A
 
-### Email for join need  send require link 
+### Email for sign  join team work  
 
 Vlad Kubliy, Hung Nguyen, Kevin Chen, Karima,Faiza Eba Batool, Harry Ji, Becca
 
-# 4. google drive
+### google drive for store document
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
-
-
-# 5.ERD draw.io  diagrams.net  
+### ERD draw.io diagrams.net  
 
 https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sharing
 
