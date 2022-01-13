@@ -139,9 +139,11 @@ https://www.figma.com/file/ehA1kbZKXL6NOrjKJvgEju/Untitled
 
 Harry Ji  10:19 AM
 https://www.figma.com/file/tKVKJ0wyGEeSmgD5f5IZrz/Untitled
+![Screenshot from 2022-01-13 11-54-19](https://user-images.githubusercontent.com/21187699/149400072-4f187918-db50-4aae-9d53-39ef13776f3a.png)
 
+![Screenshot from 2022-01-13 11-54-36](https://user-images.githubusercontent.com/21187699/149400117-4f615140-0cd2-4025-83d4-29f214073c69.png)
 
-
+![Screenshot from 2022-01-13 11-55-04](https://user-images.githubusercontent.com/21187699/149400137-66978d43-e196-424a-8011-6d6021f45a22.png)
 
 # 8. github link for  file shares
 
