@@ -1,6 +1,6 @@
 ![Screenshot from 2022-01-12 12-07-40](https://user-images.githubusercontent.com/21187699/149231103-6a9e0e6e-235c-4186-abcd-c4c300ef7605.png)
 
-This project was only one successful group project using remote work in Code Core College after three previous projects failed. 
+# This project was only one successful group project using remote work in Code Core College after three previous projects failed. 
 The project had to be completed within three days.
 Day 1: We used diagrams for ERD, Trello for Project management, Figma for UX/UI Design. The challenging part of facility booking was left for me to do.
 Day 2: I completed all required works. 
