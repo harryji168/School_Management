@@ -19,28 +19,19 @@ Finally, our college built a significant belt award for finishing this great pro
 ![meeting1](https://user-images.githubusercontent.com/21187699/149231585-730d68dd-d1e3-4509-9b8a-1f40ee0cf7af.png)
 
 
-# 1. Net meeting 
+
+### Net meeting 
 https://meet.google.com/hwi-mtua-zxs?pli=1
 
-# 2. Group Chat  - Slack
+### Group Chat  - Slack
 
-This is the very beginning of your direct message history with @Becca, @Faiza Eba Batool, @Hung Nguyen, @Karima, @Kevin Chen, and @Vlad Kubliy
-
-https://app.slack.com/client/T02TT23KN/C02L01XN8AZ
-
+This is the very beginning of your direct message history with @Becca, @Faiza Eba Batool, @Hung Nguyen, @Karima, @Kevin Chen, and @Vlad Kubliy https://app.slack.com/client/T02TT23KN/C02L01XN8AZ
 client codecore : T02TT23KN
 group_project_channel: C02L01XN8A
 
+### Email for join need  send require link 
 
-# 3. Email need  send require link 
-
-Vlad Kubliy
-Hung Nguyen 
-Kevin Chen 
-Karima
-Faiza Eba Batool
-Harry Ji 
-Becca
+Vlad Kubliy, Hung Nguyen, Kevin Chen, Karima,Faiza Eba Batool, Harry Ji, Becca
 
 # 4. google drive
 
