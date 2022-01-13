@@ -128,12 +128,13 @@ https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=32%3A2
 ![Screenshot from 2022-01-13 11-38-17](https://user-images.githubusercontent.com/21187699/149397695-87cb8b3a-9111-4d24-b1e1-c9d650b4ce9b.png)
 
 
-### Vlad Kubliy  9:50 AM   all
+Vlad Kubliy  9:50 AM  
 https://www.figma.com/file/P8ILgdUyef7rC687EXvw5T/Untitled?node-id=10%3A23
-
+![Screenshot from 2022-01-13 11-39-31](https://user-images.githubusercontent.com/21187699/149397879-5fb65f8d-8de4-48f2-a50f-f17f7cf05b76.png)
 
 Faiza Eba Batool  10:09 AM
 https://www.figma.com/file/ehA1kbZKXL6NOrjKJvgEju/Untitled
+![Screenshot from 2022-01-13 11-41-07](https://user-images.githubusercontent.com/21187699/149398102-dfc875f9-6cdf-4f12-85b7-eaa2d0527344.png)
 
 
 Harry Ji  10:19 AM
