@@ -45,31 +45,32 @@ Your client has a few vacant properties, and wants to rent out the facilities fo
 <li>You are encouraged to use tools like Trello and draw.io to communicate with each other and to illustrate your ideas.</li>
 <li>Hint: You can add gems to your project for certain features, like a calendar.</li>
 </ol>
-Features
-Your client has discussed some desired features with your team.  However, they are also open to other suggestions.  In terms of styling, your client is open to any design concepts, as long as it looks professional.  Not all features need to be included, but try to do as many as possible in the time allotted. Some features include:
 
-Sign In
-Sign Up
-Admin Panel for your client
-Ability for teachers to look up facilities based on location
-Ability for teachers to look up facilities based on features (parking, studio, AC, etc)
-Ability for students to look up courses or lessons based on anything like interests, keywords, location, etc.
-Ability for your client to create facilities
-Ability for teachers to request to book a facility for a period of time
-Ability for your client to approve or deny a request for booking a facility
-Once approved, the teacher’s facility booking will be made.
-Teachers will have the ability to cancel their facility bookings
-Ability for your client to cancel a booking of a facility as well (after initial approval)
-Ability for teachers to create courses
-Ability for teachers to destroy or edit courses
-Ability for teachers to cancel facility reservations (with a possible time limit or fee involved)
-Ability for students to enroll in courses
-Ability for students to unenroll from courses
+### Features
+Your client has discussed some desired features with your team.  However, they are also open to other suggestions.  In terms of styling, your client is open to any design concepts, as long as it looks professional.  Not all features need to be included, but try to do as many as possible in the time allotted. Some features include:
+<ul>
+<li>Sign In
+<li>Sign Up
+<li>Admin Panel for your client
+<li>Ability for teachers to look up facilities based on location
+<li>Ability for teachers to look up facilities based on features (parking, studio, AC, etc)
+<li>Ability for students to look up courses or lessons based on anything like interests, keywords, location, etc.
+<li>Ability for your client to create facilities
+<li>Ability for teachers to request to book a facility for a period of time
+<li>Ability for your client to approve or deny a request for booking a facility
+<li>Once approved, the teacher’s facility booking will be made.
+<li>Teachers will have the ability to cancel their facility bookings
+<li>Ability for your client to cancel a booking of a facility as well (after initial approval)
+<li>Ability for teachers to create courses
+<li>Ability for teachers to destroy or edit courses
+<li>Ability for teachers to cancel facility reservations (with a possible time limit or fee involved)
+<li>Ability for students to enroll in courses
+<li>Ability for students to unenroll from courses
 Ability for teachers to see all their courses
 Ability for teachers to approve or deny students to enroll in their courses
 Ability for students to see all the courses that they are enrolled in, and also those pending approval
 All users, including your client, can be a teacher or a student
-
+</ul>
 PRESENTATION
 You can designate one or more team member(s) to present.  You can choose to deploy your project or just to present your project in the development environment on localhost.  Grading will be mostly focused on the presentation of your project, but it will also be submitted at the instructed time.  Think of the presentation as a pitch to your client.  It must look professional and well presented.
 
