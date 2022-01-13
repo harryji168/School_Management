@@ -29,18 +29,22 @@ Your client has a few vacant properties, and wants to rent out the facilities fo
 
 ### Before you Code:
 #### Team
-Choose a git master and follow the setup requirements in Moodle.
-Choose a Project Manager (could be the same as the git master) to keep everyone on track and to prioritize certain goals.
-Give each member specific roles/assignments and keep each other accountable.
-Try to keep the workload fair, and help each other where needed.  A team is meant to work together to accomplish a common goal.
-Do your best.  Students who do not put in the same effort as the rest of the team, will not reap the same benefits as the rest of the team in terms of grades.  That being said, everyone has their own strengths, so just do your best.
+<ol>
+<li>Choose a git master and follow the setup requirements in Moodle.</li>
+<li>Choose a Project Manager (could be the same as the git master) to keep everyone on track and to prioritize certain goals.</li>
+<li>Give each member specific roles/assignments and keep each other accountable.</li>
+<li>Try to keep the workload fair, and help each other where needed.  A team is meant to work together to accomplish a common goal.</li>
+<li>Do your best.  Students who do not put in the same effort as the rest of the team, will not reap the same benefits as the rest of the team in terms of grades.  That being said, everyone has their own strengths, so just do your best.</li>
+</ol>
 
 ### Design and Plan
-Plan plan plan! Make sure to communicate and plan, and only start working once everyone is on the same page.
-Create ERD’s and wireframes and make sure that everyone understands how the database is going to be structured, and what pages and other components will be needed.
-Put your project in phases.  First make a MVP (minimal viable product), so you have something to work with, and then add other features based on how much time is left before presentation.
-You are encouraged to use tools like Trello and draw.io to communicate with each other and to illustrate your ideas.
-Hint: You can add gems to your project for certain features, like a calendar.
+<ol>
+<li>Plan plan plan! Make sure to communicate and plan, and only start working once everyone is on the same page.</li>
+<li>Create ERD’s and wireframes and make sure that everyone understands how the database is going to be structured, and what pages and other components will be needed.</li>
+<li>Put your project in phases.  First make a MVP (minimal viable product), so you have something to work with, and then add other features based on how much time is left before presentation.</li>
+<li>You are encouraged to use tools like Trello and draw.io to communicate with each other and to illustrate your ideas.</li>
+<li>Hint: You can add gems to your project for certain features, like a calendar.</li>
+</ol>
 Features
 Your client has discussed some desired features with your team.  However, they are also open to other suggestions.  In terms of styling, your client is open to any design concepts, as long as it looks professional.  Not all features need to be included, but try to do as many as possible in the time allotted. Some features include:
 
