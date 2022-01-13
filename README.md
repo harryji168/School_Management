@@ -112,9 +112,8 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 learn https://youtu.be/FTFaQWZBqQ8
 
 Figma Design 
-
-Hung Nguyen  8:50 PM
-https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
+Hung Nguyen  
+![Screenshot from 2022-01-13 11-32-13](https://user-images.githubusercontent.com/21187699/149396973-3c10b650-b0b6-44cf-959f-1fe7503257b0.png)
 
 Karima  10:26 PM
 https://www.figma.com/file/UugQxAMwD4ujgsGFbgJPN9/figma-Courses?node-id=0%3A1
