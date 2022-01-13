@@ -108,15 +108,19 @@ https://drive.google.com/drive/folders/1tXWovstEWZP_50caFV3iJ9aXxmXUj-Nr?usp=sha
 
 
 
-## Figma drive UI Design 
+## Figma drive UI Design  
 learn https://youtu.be/FTFaQWZBqQ8
 
+
 Figma Design 
-Hung Nguyen  
-![Screenshot from 2022-01-13 11-32-13](https://user-images.githubusercontent.com/21187699/149396973-3c10b650-b0b6-44cf-959f-1fe7503257b0.png)
+
+Hung Nguyen  8:50 PM
+https://www.figma.com/file/QEIW75IfBUEzk7CjqqM4Hp/Untitled?node-id=0%3A1
 
 Karima  10:26 PM
 https://www.figma.com/file/UugQxAMwD4ujgsGFbgJPN9/figma-Courses?node-id=0%3A1
+
+![Screenshot from 2022-01-13 11-35-18](https://user-images.githubusercontent.com/21187699/149397319-633d053a-92f6-4886-bec6-773a4005044c.png)
 
 
 Becca  11:50 PM
