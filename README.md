@@ -170,9 +170,9 @@ https://github.com/vkub1/codecore_group_project
 
 
 
-# 9. presentation
+# Day 3
+Presentation
 
-https://youtu.be/XW4pxiLuc8U
+https://www.youtube.com/watch?v=9-WP7CnYgEM
 
-
-# 10. Documenation and review
+ 
