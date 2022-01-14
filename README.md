@@ -145,8 +145,7 @@ https://www.figma.com/file/tKVKJ0wyGEeSmgD5f5IZrz/Untitled
 
 ![Screenshot from 2022-01-13 11-55-04](https://user-images.githubusercontent.com/21187699/149400137-66978d43-e196-424a-8011-6d6021f45a22.png)
 
-# 8. github link for  file shares
-
+# Day 2
 
 Karima  3:46 PM
 https://github.com/karimaettahiri
@@ -166,29 +165,10 @@ https://github.com/Faiza-Batool
 Kevin Chen  3:56 PM
 https://github.com/kcwchen
 
+Vladimir Kubliy
+https://github.com/vkub1/codecore_group_project
 
 
-
-# APP NAME HERE
-
-
-
-# Members
-
-Vladimir Kubliy, ROLES: Tags + Database + Project Manager + Git Master  
-
-
-
-* ...
-
-To get started
-```
-git clone https://github.com/vkub1/codecore_group_project
-bundle 
-rails db:create
-rails db:migrate
-rails db:seed
-```
 
 # 9. presentation
 
